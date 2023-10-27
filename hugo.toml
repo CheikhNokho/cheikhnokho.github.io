@@ -220,7 +220,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     title = "My cool site"
     # whether to omit favicon resource links
-    noFavicon = false
+    noFavicon = true
     # modern SVG favicon to use in place of older style .png and .ico files
     svgFavicon = ""
     # Android browser theme color
@@ -266,7 +266,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "<div style='text-align: justify'> Cheikh is a Phd Candidate in economics at the University of Montreal. His area of expertise includes <b> Econometrics, Machine Learning, and Finance (asset pricing).</b> He is primarily focused on statistical inference, particularly when dealing with extensive or voluminous datasets. He also taught econometrics as well as the application of machine and deep learning methods in economics. In recent research, he primarily estimated and compared asset pricing models using substantial return data. </div> <div style='text-align: justify'> Previously, he was Economist at the World Bank Group (WBG) and  a Senior research Assistant at the the International Food Research Institute (IFPRI). He holds a M.Sc. in Economics and a B.Sc. in Statistics. </div>" 
+      subtitle = "<div style='text-align: justify'> Cheikh is a Ph.D. Candidate in economics at the University of Montreal. His area of expertise includes <b> Econometrics, Machine Learning, and Finance (asset pricing).</b> He is primarily focused on statistical inference, particularly when dealing with extensive or voluminous datasets. He also taught econometrics as well as the application of machine and deep learning methods in economics. In recent research, he primarily estimated and compared asset pricing models using substantial return data. </div> <div style='text-align: justify'> Previously, he was Economist at the World Bank Group (WBG) and  a Senior research Assistant at the the International Food Research Institute (IFPRI). He holds a M.Sc. in Economics and a B.Sc. in Statistics. </div>" 
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
