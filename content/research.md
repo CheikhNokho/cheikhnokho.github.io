@@ -50,7 +50,7 @@ widget:
 
 ### Hansen-Jagannathan distance with many assets
 
-<div style="text-align: justify"> TThis paper examines the evaluation of asset pricing models with many test assets. We implement two interpretable regularization schemes to extend the Hansen-Jagannathan distance in a framework of a data-rich environment. These regularizations are relaxation of the Fundamental Equation of Asset Pricing and therefore take into account the global misspecified nature of models in finance. We use them to provide asymptotic distribution of Stochastic Discount Factor's parameters and implement comparison tests of asset pricing models.   </div>
+<div style="text-align: justify"> This paper examines the evaluation of asset pricing models with many test assets. We implement two interpretable regularization schemes to extend the Hansen-Jagannathan distance in a framework of a data-rich environment. These regularizations are relaxation of the Fundamental Equation of Asset Pricing and therefore take into account the global misspecified nature of models in finance. We use them to provide asymptotic distribution of Stochastic Discount Factor's parameters and implement comparison tests of asset pricing models.   </div>
 
 
 
