@@ -25,15 +25,23 @@
 * Research intern, Pastoralism and Drylands Pole (PPZS)
 
 ### Research Grants and Scholarships
+
 * FRQSC - Doctoral Research Scholarships (2021-2024)
+
 * PhD Fellowship of CIREQ and Department of Economics, University of Montreal (2018-2024)
+
 * Mitacs Training Fellowship
 
 ### Conferences
-* 1st CIREQ Interdisciplinary Conference on Big Data and Artificial Intelligence,
+
+* 1st CIREQ Interdisciplinary Conference on Big Data and Artificial Intelligence
+
 * Conference on Recent Developments in Econometrics
+
 * Annual Meetings of the Canadian Economics Association (CEA)
+
 * 61st congrès annuel Société Canadienne de Science Economique (SCSE)
+
 * CIREQ Montreal Econometrics Conference in Honor of Eric Renault
 
 ### Skills
