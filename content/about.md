@@ -26,7 +26,7 @@
 
 ### Research Grants and Scholarships
 
-* FRQSC - Doctoral Research Scholarships (2021-2024)
+* FRQSC - Doctoral Research Scholarships (2021-2023)
 
 * PhD Fellowship of CIREQ and Department of Economics, University of Montreal (2018-2024)
 
