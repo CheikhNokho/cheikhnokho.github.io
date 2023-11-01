@@ -600,7 +600,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       dataDomain = ""
     # Yandex Metrica
     [params.analytics.yandexMetrica]
-      id = ""
+      id = "95440040"
 
   #  Cookie consent config
   [params.cookieconsent]
