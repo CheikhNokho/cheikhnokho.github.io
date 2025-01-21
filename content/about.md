@@ -46,7 +46,7 @@
 
 ### Skills
 
-Technical: `Python` `Matlab` `C++`
+Technical: `Python` `Matlab` `C++` `SAS`
 
 
 ---
